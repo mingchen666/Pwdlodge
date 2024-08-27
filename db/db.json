@@ -1,0 +1,18 @@
+{
+  "config": {
+    "host": "localhost",
+    "port": 3000,
+    "database": "test"
+  },
+  "pwdinfo": [
+    {
+      "id": "6",
+      "icon": "https://img0.baidu.com/it/u=2923863228,3620358448&fm=253&fmt=auto&app=138&f=JPEG?w=800&h=1067",
+      "platform_name": "测试账号6",
+      "account": "测试平台",
+      "password": "455558",
+      "notes": "88测试11111",
+      "link": "http://baidu.com"
+    }
+  ]
+}
