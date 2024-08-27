@@ -51,7 +51,7 @@ PwdLodge/
 
 - 克隆仓库
 ```
-git clone https://github.com/yourusername/PwdLodge.git
+git clone https://github.com/mingchen666/PwdLodge.git
 ```  
 
 - 在.env文件里面填写VUE_APP_PASSWORD、VUE_APP_BACKEND_TYPE(值为flask/json-server)
@@ -91,7 +91,7 @@ pnpm run build
 
 - 克隆仓库
 ```
-git clone https://github.com/yourusername/PwdLodge.git
+git clone https://github.com/mingchen666/PwdLodge.git
 cd PwdLodge
 ```
  
